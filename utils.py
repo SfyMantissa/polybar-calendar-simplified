@@ -13,13 +13,6 @@ def get_glade_file_path(name):
     return os.path.join(ABS_PATH, 'ui', name)
 
 
-def get_localevents_json_file():
-    '''
-    Returns local events json file.
-    '''
-    return os.path.join(ABS_PATH, 'events.json')
-
-
 def get_wal_colors():
     '''
     Returns pywal colors, if pywal is used and colors are cached in Home directory.

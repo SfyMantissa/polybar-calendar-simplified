@@ -2,7 +2,7 @@
 
 A **simplified** calendar for polybar or for anyware. Made with python and gtk.
 
-![](demo/calendar_demo.gif)
+![](calendar_demo.gif)
 
 Features:
 
